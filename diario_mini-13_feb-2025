@@ -1,0 +1,6 @@
+2025-Enero-01 00,00,00        2025-Enero-01 23,59,59
+
+hora_inicio = 00
+hora_fin = 23+1
+
+numero_hilos_4
